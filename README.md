@@ -1,4 +1,4 @@
-# Class-D Amplifier Board
+# Class-D Amplifier Board PCB Design in Altium with Complete project files
 
 ## Overview
 
