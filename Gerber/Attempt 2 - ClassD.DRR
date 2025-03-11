@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Attempt 2 - ClassD.PcbDoc   19-12-2024  16:43:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Attempt 2 - ClassD-RoundHoles.TXT
+ASCII SlotHoles File : Attempt 2 - ClassD-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             172       PTH        35.16inch (893.11mm)
+T2      31mil (0.787mm)                                           Slot              3         PTH        1.14inch (29.02mm)
+T3      55mil (1.397mm)                                           Round             16        PTH        13.03inch (331.02mm)
+T4      126mil (3.2mm)                                            Round             4         PTH        9.72inch (247.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              195
+
+Total Processing Time (hh:mm:ss) : 00:00:00
