@@ -17,10 +17,10 @@ This project involves the design of a Class-D amplifier PCB utilizing Texas Inst
 - `Schematic/`: Detailed schematic of the Class-D amplifier circuit.
 - `BOM/`: Bill of materials listing all components used in the design.
 - `Gerber/`: Manufacturing Files, PCB stack-up and layer information.
-- `Assembly/`: Pick and Place information for SMT process.
+- `Assembly/`: Pick and Place information for SMT machine process.
 - `Mechanical/`: Contains files for mechanical design such as 3D STEP and DWG of Board.
-- `Source Files/`: Directory containing Altium Designer project files, including schematics and PCB layout.
-- `Reports/`: Contains Altium PCB DRC and ERC status.
+- `Source Files/`: Directory containing Altium Designer project files.
+- `Reports/`: Contains DRC and ERC status.
 - `CHANGELOG.md`: Documentation of changes and updates made throughout the project.
 - `LICENSE`: License information for the project.
 
