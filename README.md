@@ -1,5 +1,5 @@
 # Class-D Amplifier Board PCB Design
-
+![Alt text](Images/3D.png)
 ## Overview
 
 This project involves the design of a Class-D amplifier PCB utilizing Texas Instruments' TPA3130D2DAPR 2x15W Class-D amplifier IC. The PCB was designed using Altium Designer 22, based on the schematic provided in Phil's Lab tutorial ([youtube.com](https://www.youtube.com/watch?v=wCYNTt5krDM&ab_channel=Phil%E2%80%99sLab)).
